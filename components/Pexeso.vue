@@ -174,7 +174,15 @@ export default {
 				"fab fa-skype",
 				"fab fa-steam",
 				"fab fa-snapchat",
-				"fab fa-twitter"
+				"fab fa-twitter",
+				"fab fa-angellist",
+				"fab fa-linux",
+				"fab fa-mailchimp",
+				"fab fa-sketch",
+				"fab fa-youtube",
+				"fab fa-wordpress",
+				"fab fa-ups",
+				"fab fa-tripadvisor"
 			];
 
 			icons = icons.slice(0, (this.size * this.size) / 2);
