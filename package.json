@@ -4,7 +4,7 @@
 		"build": "parcel build --out-dir docs/ --public-url . index.html"
 	},
 	"dependencies": {
-		"lodash": "^4.17.15",
+		"lodash": "^4.17.21",
 		"vue": "^2.6.10",
 		"vue-hot-reload-api": "^2.3.4"
 	},
